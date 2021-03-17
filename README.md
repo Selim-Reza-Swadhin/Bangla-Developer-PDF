@@ -3,12 +3,12 @@
 
 courses.stackschool.co
 
-Visit :-    https://courses.stackschool.co
-Subscribe:- https://youtube.com/stacklearner
-Like      https://facebook.com/stacklearner
-Join      https://facebook.com/groups/stacklearner
-Connect   https://linkedin.com/company/stacklearner
-Follow    https://instagram.com/stacklearner/
-Follow    https://medium.com/stack-learner
+Visit :-    https://courses.stackschool.co<br><br>
+Subscribe:- https://youtube.com/stacklearner<br><br>
+Like      https://facebook.com/stacklearner<br><br>
+Join      https://facebook.com/groups/stacklearner<br><br>
+Connect   https://linkedin.com/company/stacklearner<br><br>
+Follow    https://instagram.com/stacklearner/<br><br>
+Follow    https://medium.com/stack-learner<br><br>
 
 Copyright © 2020 Stack Learner.
